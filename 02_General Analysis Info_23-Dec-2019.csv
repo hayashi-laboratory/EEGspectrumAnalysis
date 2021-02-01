@@ -1,0 +1,17 @@
+Results21,Results22,Results23
+,C_181215Sat_181216Sun_A2AR.0002_Ch1_AE_cFFT.txt,C_181215Sat_181216Sun_A2AR.0002_Ch3_AE_cFFT.txt
+normalization value,2307.91416692622,3760.31619770415
+,NaN,NaN
+calculated 24h R epochs,715,1176
+calculated LP R epochs,617,849
+calculated DP R epochs,98,327
+,NaN,NaN
+calculated W epochs,8097,8810
+calculated LP W epochs,2529,3127
+calculated DP W epochs,5568,5683
+,NaN,NaN
+calculated NR epochs,9379,9595
+calculated LP NR epochs,5815,5652
+calculated DP NR epochs,3564,3943
+,NaN,NaN
+analysis time,18.58882644,16.101812188
