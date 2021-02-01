@@ -1,9 +1,9 @@
 # EEGPowerCalc
  EEG power analysis from SleepSign
 
+Use FFTspec6Run to execute FFTspec6
+
 FFTspec6: 
-
-
 
 (1) Run text (.txt) files, which will be very fast.
 
