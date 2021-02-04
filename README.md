@@ -1,13 +1,14 @@
-# EEGPowerCalc
- EEG power analysis from SleepSign
+# EEGspectrumAnalysis
+EEG power spectrum analysis from SleepSign
+FFTspec5: calculate the pure Wake, NREM ,REM (REM>40secs)
+FFTspec6: calculate all pure Wake, NREM , REM (all length)
 
-Use FFTspec6Run to execute FFTspec6
+# Use FFTspec5Run to execute FFTspec5
 
-FFTspec6: 
+# Use FFTspec6Run to execute FFTspec6
 
+FFTspec5/6: 
 (1) Run text (.txt) files, which will be very fast.
-
-
 
 ​	Method of exporting FFT .txt file from SleepSign: 
 
@@ -16,7 +17,5 @@ FFTspec6:
 ​	Analysis → FFT Text Output → Continuous FFT → epoch XXX (start)-epoch XXX (end) 
 
 ​	export: File, Path (export to the same folder) → export as .txt file (a lot faster to read by MATLAB) → ✔︎comma(csv) → start
-
-
 
 (2) Can use in AE(artifact exclusion) file, since M will be viewed as NaN
