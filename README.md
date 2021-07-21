@@ -1,4 +1,7 @@
 # EEGspectrumAnalysis
+
+[![DOI](https://zenodo.org/badge/334886963.svg)](https://zenodo.org/badge/latestdoi/334886963)
+
 EEG power spectrum analysis from SleepSign
 FFTspec5: calculate the pure Wake, NREM ,REM (REM>40secs)
 FFTspec6: calculate all pure Wake, NREM , REM (all length)
